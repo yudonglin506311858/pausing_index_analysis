@@ -9,3 +9,6 @@ reference: [https://www.nature.com/articles/s41586-023-05780-8/figures/9]
 
 Estimation of a gene’s “pausing index” (PI) from RNAPII ChIP–seq data. The promoter is defined as the region covering 200 bp upstream to 200 bp downstream of the TSS; the gene body is defined as the region from 400 bp downstream of the TSS to TES, genes with gene length less than 400 bp are removed for pausing index analysis.
 
+<img width="1596" height="938" alt="1230ad9e4831b93a659ec0cd880c46dc" src="https://github.com/user-attachments/assets/c0a9b554-a743-4e16-8fb5-3cc76228da45" />
+
+Cumulative distribution analysis revealed a global rightward shift of the pausing index upon treatment, indicating increased RNAPII promoter-proximal pausing across the genome.
